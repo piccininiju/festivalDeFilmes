@@ -55,3 +55,12 @@ Este projeto faz uso dos principais pilares da Programação Orientada a Objetos
 
 Para testar o projeto, basta executar o arquivo `Main.java`.  
 Ele cria um festival, adiciona filmes, equipes e participantes, faz as nomeações e imprime os resultados no console.
+
+---
+
+## 👩‍💻 Autora
+
+**Juliana Piccinini**  
+Projeto desenvolvido como parte da disciplina de **Programação Orientada a Objetos**.
+
+
