@@ -61,6 +61,7 @@ Ele cria um festival, adiciona filmes, equipes e participantes, faz as nomeaçõ
 ## 👩‍💻 Autora
 
 **Juliana Piccinini**  
-Projeto desenvolvido como parte da disciplina de **Programação Orientada a Objetos**.
+Projeto desenvolvido como parte da disciplina de **Programação Orientada a Objetos**.  
+**2025.2**
 
 
